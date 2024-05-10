@@ -1,0 +1,8 @@
+ node_modules/
+        package-lock.json
+        package.json
+.vscode/
+FirstAppMySQLConnection.session.sql
+node_modules
+package.json
+package-lock.json
